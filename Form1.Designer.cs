@@ -73,6 +73,7 @@
             this.LogInTextBox.Name = "LogInTextBox";
             this.LogInTextBox.Size = new System.Drawing.Size(100, 22);
             this.LogInTextBox.TabIndex = 4;
+            this.LogInTextBox.Text = "g";
             // 
             // PasswordTextBox
             // 
@@ -80,6 +81,7 @@
             this.PasswordTextBox.Name = "PasswordTextBox";
             this.PasswordTextBox.Size = new System.Drawing.Size(100, 22);
             this.PasswordTextBox.TabIndex = 6;
+            this.PasswordTextBox.Text = "l";
             // 
             // label2
             // 
